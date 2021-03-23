@@ -9,3 +9,7 @@ Jour 1 :
 - Visionnage, compréhension et sélection des vidéos sur la Conception
 - Mise en commun de l'organisation du lendemain : répondre aux questions Comprendre + explication des termes clés
 
+Jour 2 : 
+- testing avec Lucas en mob-programming 
+-- phpMyAdmin => socialnetwork [SELECT, UPDATE, JOINTURE]
+-- MySQLWorkbench => Import de Buffet dans phpMyAdmin)
