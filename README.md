@@ -10,6 +10,8 @@ Jour 1 :
 - Mise en commun de l'organisation du lendemain : répondre aux questions Comprendre + explication des termes clés
 
 Jour 2 : 
-- testing avec Lucas en mob-programming 
--- phpMyAdmin => socialnetwork [SELECT, UPDATE, JOINTURE]
--- MySQLWorkbench => Import de Buffet dans phpMyAdmin)
+- testing avec Lucas en mob-programming <br>
+-- phpMyAdmin => socialnetwork [SELECT, UPDATE, JOINTURE] <br>
+-- MySQLWorkbench => Import de Buffet dans phpMyAdmin) <br>
+- Quizz 1 et 2 sur SQL
+- Réponses aux questions de Comprendre.mb + explications des termes clés.
